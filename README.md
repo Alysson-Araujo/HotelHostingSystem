@@ -14,4 +14,4 @@ Caso seja feita uma reserva igual ou maior que 10 dias, deverá ser concedido um
 
 ### Diagrama do sistema
 
-![Diagrama do sistema](../images/diagrama_classe_hotel.png)
+![Diagrama do sistema](./images/diagrama_classe_hotel.png)
